@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 2.7'
 
 #installazione GEM personalizzate
 gem 'materialize-sass', '~> 1.0.0'
+# gem per la gestione del login
+gem 'devise' 
 
 
 # Reduces boot times through caching; required in config/boot.rb
