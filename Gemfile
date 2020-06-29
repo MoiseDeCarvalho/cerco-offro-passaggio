@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'materialize-sass', '~> 1.0.0'
 # gem per la gestione del login
 gem 'devise' 
+gem "paperclip", "~> 6.0.0"
 
 
 # Reduces boot times through caching; required in config/boot.rb
